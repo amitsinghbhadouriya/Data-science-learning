@@ -1,0 +1,51 @@
+order_id,customer_name,city,product,amount,payment_method,order_date,rating
+1,Amit,Gwalior,Laptop,55000,UPI,05-01-2025,5
+1,Amit,Gwalior,Laptop,55000,UPI,05-01-2025,5
+3,Rahul,Indore,Headphones,3500,UPI,07-01-2025,5
+4,Neha,Delhi,Mouse,,Cash,08-01-2025,3
+5,Rohan,Mumbai,Monitor,15000,Debit Card,08-01-2025,4
+6,Sneha,,Tablet,22000,UPI,10-01-2025,5
+7,Karan, jaipur ,Keyboard,1800,Wallet,11-01-2025,3
+8,Isha,Lucknow,,6000,UPI,12-01-2025,4
+9,Arjun,Agra,Camera,42000,Credit Card,13-01-2025,5
+10,Pooja,Gwalior,Printer,12000,Cash,14-01-2025,2
+11,Aarav,Bhopal,,5500,UPI,15-01-2025,4
+12,Riya,,Router,2800,Debit Card,16-01-2025,3
+13,Simran,Delhi,Webcam,3000,UPI ,17-01-2025,5
+14,Vivek,Mumbai,Laptop,62000,Credit Card,18-01-2025,4
+15,Ananya,Pune,Phone,31000,UPI,19-01-2025,5
+16,Mohit,Jaipur,Mouse,850,Cash,20-01-2025,3
+17,Kavya,Lucknow,Tablet,21000,Wallet,21-01-2025,4
+18,Nisha,Agra,Headphones,4000,UPI,22-01-2025,5
+19,Dev ,Gwalior,Monitor,14000,Debit Card,23-01-2025,3
+20,Meera,Bhopal,Keyboard,2000,UPI,24-01-2025,4
+15,Ananya,Pune,Phone,31000,UPI,19-01-2025,5
+22,Rahul,Indore,Headphones,3500,UPI,07-01-2025,5
+23,Rohit,Delhi,Phone,29000,upi,26-01-2025,4
+24,Priya,Bhopal,Tablet,22000,Credit Card,,5
+25,Neha,Delhi,Mouse,900,N/A,28-01-2025,
+26,Karan,Jaipur,Laptop,58000,UPI,29-01-2025,4
+18,Nisha,Agra,Headphones,4000,UPI,22-01-2025,5
+19,Dev ,Gwalior,Monitor,14000,Debit Card,23-01-2025,3
+29,Pooja,Gwalior,Printer,12000,Cash,31-01-2025,
+30,Aarav,,SSD,5500,UPI,01-02-2025,6
+31,Riya,Indore,Router,2800,Debit Card,02-02-2025,4
+32,Simran,Delhi,Webcam,3000,upi,03-02-2025,5
+33,Vivek,Mumbai,Laptop,999999,Credit Card,,4
+34,Ananya,Pune,Phone,31000,UPI,05-02-2025,5
+35,Mohit,Jaipur,Mouse,850,cash,06-02-2025,3
+36,Kavya,Lucknow,,21000,Wallet,07-02-2025,4
+37,Nisha,Agra,Headphones,4000,UPI,08-02-2025,5
+38,Dev,Gwalior,Monitor,14000,Debit Card,09-02-2025,3
+39,Meera,Bhopal,Keyboard,2000,UPI,10-02-2025,4
+40,Amit,,Laptop,55000,UPI,11-02-2025,5
+41,,Indore,Phone,28000,Credit Card,12-02-2025,4
+42,Rohan,Mumbai,Monitor,,Debit Card,13-02-2025,4
+43,Sneha,Pune,Tablet,22000,,,5
+15,Ananya,Pune,Phone,31000,UPI,19-01-2025,5
+45,Isha,Lucknow,Smartwatch,6000,UPI,15-02-2025,4
+46,Arjun,Agra,Camera,42000,Credit Card,16-02-2025,5
+47,Pooja,,Printer,12000,Cash,17-02-2025,
+48,Aarav,Bhopal,SSD,5500,UPI,18-02-2025,4
+49,Riya,Indore,Router,2800,Debit Card,19-02-2025,3
+50,Simran,Delhi,Webcam,3000,UPI,20-02-2025,5
